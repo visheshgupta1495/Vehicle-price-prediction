@@ -59,7 +59,7 @@ defusedxml==0.7.1
 descartes==1.1.0
 dill==0.3.4
 distributed==1.25.3
-dlib @ file:///dlib-19.18.0-cp39-cp39m-linux_x86_64.whl
+dlib @ file:///dlib-19.18.0-cp37-cp37m-linux_x86_64.whl
 dm-tree==0.1.6
 docopt==0.6.2
 docutils==0.17.1
@@ -152,7 +152,7 @@ ipython-sql==0.3.9
 ipywidgets==7.6.3
 itsdangerous==1.1.0
 jax==0.2.17
-jaxlib @ https://storage.googleapis.com/jax-releases/cuda110/jaxlib-0.1.69+cuda110-cp39-none-manylinux2010_x86_64.whl
+jaxlib @ https://storage.googleapis.com/jax-releases/cuda110/jaxlib-0.1.69+cuda110-cp37-none-manylinux2010_x86_64.whl
 jdcal==1.4.1
 jedi==0.18.0
 jieba==0.42.1
@@ -335,7 +335,7 @@ tblib==1.7.0
 tensorboard==2.5.0
 tensorboard-data-server==0.6.1
 tensorboard-plugin-wit==1.8.0
-tensorflow @ file:///tensorflow-2.5.0-cp39-cp39m-linux_x86_64.whl
+tensorflow @ file:///tensorflow-2.5.0-cp37-cp37m-linux_x86_64.whl
 tensorflow-datasets==4.0.1
 tensorflow-estimator==2.5.0
 tensorflow-gcs-config==2.5.0
@@ -352,10 +352,10 @@ thinc==7.4.0
 tifffile==2021.7.2
 toml==0.10.2
 toolz==0.11.1
-torch @ https://download.pytorch.org/whl/cu102/torch-1.9.0%2Bcu102-cp39-cp39m-linux_x86_64.whl
+torch @ https://download.pytorch.org/whl/cu102/torch-1.9.0%2Bcu102-cp37-cp37m-linux_x86_64.whl
 torchsummary==1.5.1
 torchtext==0.10.0
-torchvision @ https://download.pytorch.org/whl/cu102/torchvision-0.10.0%2Bcu102-cp39-cp39m-linux_x86_64.whl
+torchvision @ https://download.pytorch.org/whl/cu102/torchvision-0.10.0%2Bcu102-cp37-cp37m-linux_x86_64.whl
 tornado==5.1.1
 tqdm==4.41.1
 traitlets==5.0.5
